@@ -62,7 +62,7 @@
     "express-flash": "~0.0.2",
     "express-session": "^1.12.1",
     "express-state": "^1.2.0",
-    "express-validator": "^3.0.0",
+    "express-validator": "^5.0.0",
     "fetchr": "~0.5.12",
     "font-awesome": "~4.5.0",
     "frameguard": "^3.0.0",
@@ -78,7 +78,7 @@
     "lightbox2": "~2.8.2",
     "lodash": "^4.1.0",
     "loopback": "^3.11.1",
-    "loopback-boot": "^2.26.1",
+    "loopback-boot": "^3.0.0",
     "loopback-component-passport": "^3.4.1",
     "loopback-connector-mongodb": "^3.2.1",
     "method-override": "^2.3.0",
@@ -133,7 +133,7 @@
     "snyk": "^1.30.1",
     "store": "git+https://github.com/berkeleytrue/store.js.git#feature/noop-server",
     "uuid": "^3.0.1",
-    "validator": "^6.0.0"
+    "validator": "^9.4.1"
   },
   "devDependencies": {
     "adler32": "~0.1.7",
